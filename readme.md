@@ -3,8 +3,11 @@
 <p> Цель: Создание и настройка аккаунта для системы управления версиями Git. </p>
 </br>
 <p> №1. Создание аккаунта </p>
-Для создания аккаунта необходимо перейти на сайт github.com
+Для создания аккаунта необходимо перейти на сайт github.com. На странице авторизации необходимо нажать на кнопку "Create an account".
+![alt text](https://github.com/midnightRanger/github_practices/blob/first_practice/images/pic1.png?raw=true)
 
-![image](https://user-images.githubusercontent.com/17981017/215969909-92a6bcb0-d8f4-4ff7-b160-607e059e9670.png)
+<p color="grey"> 
+
+
 
   
